@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dementr0n(aka dmtr0n)
-- 👀 I’m interested in build PC, flashing smartphones, and automatize everyday routine
+- 👀 I’m interested in build PC, flashing smartphones, and automatize everyday routine using Shell language(but i try to learn Python)
 - 🌱 I’m currently learning UI/UX design
 - 💞️ I’m looking to reach @Veynamer level
 - 📫 How to reach me- @dmtr0n(Telegram)(Native lang- Russian)
